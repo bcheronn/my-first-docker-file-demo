@@ -1,0 +1,14 @@
+{
+    "name": "bcheronn/my-first-docker-file-demo",
+    "description": "Demo about creating a docker file using PHP and composer",
+    "type": "project",
+    "license": "AGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Bertrand C",
+            "email": "66913901+bcheronn@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
